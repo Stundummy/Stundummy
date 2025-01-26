@@ -1,5 +1,6 @@
-## Hi there 👋
-
+### About me 👋
+# I'm Currently working on creating a Pyton/Rasberry Pi module that will monitor and observe fuses in a Theyerster box, and inform me when they blow with a notification sent to my phone 🤓
+# I'm Learning Python 🤞
 <!--
 **Stundummy/Stundummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
